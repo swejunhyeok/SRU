@@ -1,0 +1,27 @@
+video_name,video_label,predict_label,corret
+02-01-02-01-01-01-16.mp4,calm,calm,True
+01-01-08-01-01-01-03.mp4,surprised,surprised,True
+01-01-08-02-01-02-06.mp4,surprised,angry,False
+02-01-01-01-02-01-15.mp4,neutral,neutral,True
+02-01-05-02-02-02-15.mp4,angry,angry,True
+02-01-05-01-01-02-22.mp4,angry,angry,True
+01-01-05-01-01-02-09.mp4,angry,angry,True
+01-01-05-02-01-02-05.mp4,angry,angry,True
+01-01-08-02-02-02-10.mp4,surprised,surprised,True
+01-01-05-02-01-01-21.mp4,angry,angry,True
+01-01-05-02-01-01-05.mp4,angry,angry,True
+02-01-03-01-01-01-08.mp4,happy,happy,True
+02-01-07-01-02-02-08.mp4,disgust,disgust,True
+02-01-01-01-01-02-06.mp4,neutral,neutral,True
+02-01-04-02-02-02-14.mp4,sad,sad,True
+02-01-08-01-01-02-07.mp4,surprised,surprised,True
+02-01-07-01-02-02-04.mp4,disgust,disgust,True
+01-01-01-01-02-01-15.mp4,neutral,neutral,True
+01-01-04-02-01-01-23.mp4,sad,sad,True
+02-01-01-01-02-02-19.mp4,neutral,neutral,True
+02-01-07-01-02-01-13.mp4,disgust,disgust,True
+02-01-07-01-02-02-19.mp4,disgust,disgust,True
+01-01-04-02-02-01-04.mp4,sad,sad,True
+01-01-03-01-02-02-24.mp4,happy,happy,True
+01-01-08-02-02-01-15.mp4,surprised,surprised,True
+-,-,accuracy = ,96.0
